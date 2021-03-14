@@ -8,7 +8,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/ISC;md5=f3b90e78ea0cffb20bf5cca
 PV = "v5.9.3.2+${SRCPV}"
 
 SRCBRANCH = "main"
-SRCREV = "89be8e643381f8ae1fb3ec750907c0c0d0962be0"
+SRCREV = "87ee37292d5867f97bb6eb1d9191d0d9446fcb18"
 
 SRC_URI = "\
     git://github.com/Jiteshprm/rtl8812au-5.9.3.2;protocol=git;branch=${SRCBRANCH} \
